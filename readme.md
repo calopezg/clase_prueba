@@ -87,5 +87,11 @@ Pendiente: Frase, Imagen de iconarchive.com
 
 > "El tiempo es arena en mis manos" -- Gustavo Cerati
 
+- César López 
+   - **Hobby** Volar, Viajar
+   - **Frase** 
+    > "La inteligencia es la capacidad de adaptarse al cambio. S.Hawking".
+
+   
 
 
